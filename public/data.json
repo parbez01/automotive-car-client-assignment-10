@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "brandName": "Toyota",
+      "image": "https://i.ibb.co/9tRSPpP/toyota-logo-wallpaper-thumb.jpg"
+    },
+    {
+      "id": 2,
+      "brandName": "Ford",
+      "image": "https://i.ibb.co/SvtvDy5/cars-ford-wallpaper-preview.jpg"
+    },
+    {
+      "id": 3,
+      "brandName": "BMW",
+      "image": "https://i.ibb.co/Fs3MHtj/bmw-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-bmw-logo-editorial.webp"
+    },
+    {
+      "id": 4,
+      "brandName": "Mercedes-Benz",
+      "image": "https://i.ibb.co/BNrxGXZ/HD-wallpaper-mercedes-logo-white-logo-white-mercedes-1.jpg"
+    },
+    {
+      "id": 5,
+      "brandName": "Tesla",
+      "image": "https://i.ibb.co/Phnktk7/43e969979dfd8ae4b364f517571aee58.jpg"
+    },
+    {
+      "id": 6,
+      "brandName": "Honda",
+      "image": "https://i.ibb.co/TgfkzWg/1409002.jpg"
+    }
+  ]
+  
